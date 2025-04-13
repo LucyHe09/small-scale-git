@@ -1,0 +1,3 @@
+# small-scale-git
+
+new
